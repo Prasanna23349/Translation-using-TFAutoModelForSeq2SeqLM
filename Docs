@@ -1,0 +1,4 @@
+Dataset: From Hugging face
+Model: TFAutoModelForSeq2SeqLM
+Tokenizer: AutoTokenizer from huggingface
+Model checkpoint: Helsinki-NLP/opus-mt-en-hi
